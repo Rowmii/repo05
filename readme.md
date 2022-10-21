@@ -7,7 +7,7 @@ Los puntos de mayor nivel que cubrirá esta guía son:a
 aa
 Inicio de un nuevo repositorio de Git
 Clonación de un repositorio de Git existente
-Confirmación de la versión modificada de un archivo al repositorio
+Confirmación de la versión modificada de un archivo al repositorior
 Configuración de un repositorio de Git para la colaboración remota
 Comandos comunes de control de versiones de Git
 Al final de este módulo, deberías poder crear un repositorio de Git, usar comandos comunes de Git, confirmar un archivo modificado, ver el historial de tu proyecto y configurar una conexión a un servicio de almacenamiento de Git (Bitbucket).
